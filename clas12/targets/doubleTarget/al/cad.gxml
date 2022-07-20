@@ -1,0 +1,87 @@
+<!--
+
+Initial try to include the double target in targets!
+ 
+ -->
+
+<gxml>
+
+	<!-- Carbon Fiber -->
+    <volume name="A004P9_1_04_001_P9_1_04_2_C002"    mother="root" color="444444" position="0*mm 0*mm 1273.27*mm" rotation="0*deg 0*deg 0*deg" material="carbonFiber"/>
+	<volume name="A004P9_1_04_001_P9_1_04_2_C002_1"  mother="root" color="444444" position="0*mm 0*mm 1273.27*mm" rotation="0*deg 0*deg 0*deg" material="carbonFiber"/>
+    <volume name="A004P9_1_04_001_P9_1_04_2_C002_2"  mother="root" color="444444" position="0*mm 0*mm 1273.27*mm" rotation="0*deg 0*deg 0*deg" material="carbonFiber"/>
+    <volume name="A004P9_1_04_001_P9_1_04_2_C002_3"  mother="root" color="444444" position="0*mm 0*mm 1273.27*mm" rotation="0*deg 0*deg 0*deg" material="carbonFiber"/>
+    <volume name="A004P9_1_04_001_P9_1_04_2_C002_4"  mother="root" color="444444" position="0*mm 0*mm 1273.27*mm" rotation="0*deg 0*deg 0*deg" material="carbonFiber"/>
+    <volume name="A004P9_1_04_001_P9_1_04_2_C002_5"  mother="root" color="444444" position="0*mm 0*mm 1273.27*mm" rotation="0*deg 0*deg 0*deg" material="carbonFiber"/>
+    <volume name="A004P9_1_04_001_P9_1_04_2_C002_6"  mother="root" color="444444" position="0*mm 0*mm 1273.27*mm" rotation="0*deg 0*deg 0*deg" material="carbonFiber"/>
+    <volume name="A004P9_1_04_001_P9_1_04_2_C002_7"  mother="root" color="444444" position="0*mm 0*mm 1273.27*mm" rotation="0*deg 0*deg 0*deg" material="carbonFiber"/>
+
+    <!-- Galvanized Steel -->
+    <volume name="A004P9_1_04_001_BS_4168_-_M3_x_25_1__1"  mother="root" color="044444" position="0*mm 0*mm 1273.27*mm" rotation="0*deg 0*deg 0*deg" material="carbonFiber"/>
+    <volume name="A004P9_1_04_001_BS_4168_-_M3_x_25_1__2"  mother="root" color="044444" position="0*mm 0*mm 1273.27*mm" rotation="0*deg 0*deg 0*deg" material="carbonFiber"/>
+    <volume name="A004P9_1_04_001_BS_4168_-_M3_x_25_1__3"  mother="root" color="044444" position="0*mm 0*mm 1273.27*mm" rotation="0*deg 0*deg 0*deg" material="carbonFiber"/>
+    <volume name="A004P9_1_04_001_BS_4168_-_M3_x_25_1__4"  mother="root" color="044444" position="0*mm 0*mm 1273.27*mm" rotation="0*deg 0*deg 0*deg" material="carbonFiber"/>
+    <volume name="A004P9_1_04_001_BS_4168_-_M3_x_25_1__5"  mother="root" color="044444" position="0*mm 0*mm 1273.27*mm" rotation="0*deg 0*deg 0*deg" material="carbonFiber"/>
+    <volume name="A004P9_1_04_001_BS_4168_-_M3_x_25_1_"    mother="root" color="044444" position="0*mm 0*mm 1273.27*mm" rotation="0*deg 0*deg 0*deg" material="carbonFiber"/>
+
+    <volume name="A004P9_1_04_001_BS_4183_-_M1_2_x_9_2__I_1"  mother="root" color="044444" position="0*mm 0*mm 1273.27*mm" rotation="0*deg 0*deg 0*deg" material="carbonFiber"/>
+    <volume name="A004P9_1_04_001_BS_4183_-_M1_2_x_9_2__I_2"  mother="root" color="044444" position="0*mm 0*mm 1273.27*mm" rotation="0*deg 0*deg 0*deg" material="carbonFiber"/>
+    <volume name="A004P9_1_04_001_BS_4183_-_M1_2_x_9_2__I_3"  mother="root" color="044444" position="0*mm 0*mm 1273.27*mm" rotation="0*deg 0*deg 0*deg" material="carbonFiber"/>
+    <volume name="A004P9_1_04_001_BS_4183_-_M1_2_x_9_2__I"    mother="root" color="044444" position="0*mm 0*mm 1273.27*mm" rotation="0*deg 0*deg 0*deg" material="carbonFiber"/>
+
+    <volume name="A004P9_1_04_001_BS_4183_-_M1_6_1__1"  mother="root" color="044444" position="0*mm 0*mm 1273.27*mm" rotation="0*deg 0*deg 0*deg" material="carbonFiber"/>
+    <volume name="A004P9_1_04_001_BS_4183_-_M1_6_1__2"  mother="root" color="044444" position="0*mm 0*mm 1273.27*mm" rotation="0*deg 0*deg 0*deg" material="carbonFiber"/>
+    <volume name="A004P9_1_04_001_BS_4183_-_M1_6_1__3"  mother="root" color="044444" position="0*mm 0*mm 1273.27*mm" rotation="0*deg 0*deg 0*deg" material="carbonFiber"/>
+    <volume name="A004P9_1_04_001_BS_4183_-_M1_6_1_"    mother="root" color="044444" position="0*mm 0*mm 1273.27*mm" rotation="0*deg 0*deg 0*deg" material="carbonFiber"/>
+
+    <volume name="A004P9_1_04_001_DIN_912_-_M2_x_0_4_x_4_x_3"  mother="root" color="044444" position="0*mm 0*mm 1273.27*mm" rotation="0*deg 0*deg 0*deg" material="carbonFiber"/>
+
+    <volume name="A004P9_1_04_001_DIN_912_-_M2_x_0_4_x_6_x_5_1"  mother="root" color="044444" position="0*mm 0*mm 1273.27*mm" rotation="0*deg 0*deg 0*deg" material="carbonFiber"/>
+    <volume name="A004P9_1_04_001_DIN_912_-_M2_x_0_4_x_6_x_5_2"  mother="root" color="044444" position="0*mm 0*mm 1273.27*mm" rotation="0*deg 0*deg 0*deg" material="carbonFiber"/>
+    <volume name="A004P9_1_04_001_DIN_912_-_M2_x_0_4_x_6_x_5"    mother="root" color="044444" position="0*mm 0*mm 1273.27*mm" rotation="0*deg 0*deg 0*deg" material="carbonFiber"/>
+
+    <volume name="A004P9_1_04_001_ISO_7045_-_M1_6_x_5_-_4_8_-_Z_-_ISO_1"  mother="root" color="044444" position="0*mm 0*mm 1273.27*mm" rotation="0*deg 0*deg 0*deg" material="carbonFiber"/>
+    <volume name="A004P9_1_04_001_ISO_7045_-_M1_6_x_5_-_4_8_-_Z_-_ISO"    mother="root" color="044444" position="0*mm 0*mm 1273.27*mm" rotation="0*deg 0*deg 0*deg" material="carbonFiber"/>
+
+    <volume name="A004P9_1_04_001_P9_1_03_1_B003"    mother="root" color="044444" position="0*mm 0*mm 1273.27*mm" rotation="0*deg 0*deg 0*deg" material="carbonFiber"/>
+    <volume name="A004P9_1_04_001_P9_1_03_1_B004"    mother="root" color="044444" position="0*mm 0*mm 1273.27*mm" rotation="0*deg 0*deg 0*deg" material="carbonFiber"/>
+    <volume name="A004P9_1_04_001_P9_1_03_1_B005"    mother="root" color="044444" position="0*mm 0*mm 1273.27*mm" rotation="0*deg 0*deg 0*deg" material="carbonFiber"/>
+    <volume name="A004P9_1_04_001_P9_1_03_1_B006"    mother="root" color="044444" position="0*mm 0*mm 1273.27*mm" rotation="0*deg 0*deg 0*deg" material="carbonFiber"/>
+    <volume name="A004P9_1_04_001_P9_1_03_1_B007"    mother="root" color="044444" position="0*mm 0*mm 1273.27*mm" rotation="0*deg 0*deg 0*deg" material="carbonFiber"/>
+    <volume name="A004P9_1_04_001_P9_1_03_1_B007_1"  mother="root" color="044444" position="0*mm 0*mm 1273.27*mm" rotation="0*deg 0*deg 0*deg" material="carbonFiber"/>
+
+    <volume name="A004P9_1_04_001_P9_1_04_1_A002"    mother="root" color="044444" position="0*mm 0*mm 1273.27*mm" rotation="0*deg 0*deg 0*deg" material="carbonFiber"/>
+    <volume name="A004P9_1_04_001_P9_1_04_1_A004"    mother="root" color="044444" position="0*mm 0*mm 1273.27*mm" rotation="0*deg 0*deg 0*deg" material="carbonFiber"/>
+    <volume name="A004P9_1_04_001_P9_1_04_1_A005"    mother="root" color="044444" position="0*mm 0*mm 1273.27*mm" rotation="0*deg 0*deg 0*deg" material="carbonFiber"/>
+    <volume name="A004P9_1_04_001_P9_1_04_1_A006"    mother="root" color="044444" position="0*mm 0*mm 1273.27*mm" rotation="0*deg 0*deg 0*deg" material="carbonFiber"/>
+    <volume name="A004P9_1_04_001_P9_1_04_1_A007"    mother="root" color="044444" position="0*mm 0*mm 1273.27*mm" rotation="0*deg 0*deg 0*deg" material="carbonFiber"/>
+    <volume name="A004P9_1_04_001_P9_1_04_1_A008"    mother="root" color="044444" position="0*mm 0*mm 1273.27*mm" rotation="0*deg 0*deg 0*deg" material="carbonFiber"/>
+    <volume name="A004P9_1_04_001_P9_1_04_1_A009"    mother="root" color="044444" position="0*mm 0*mm 1273.27*mm" rotation="0*deg 0*deg 0*deg" material="carbonFiber"/>
+    <volume name="A004P9_1_04_001_P9_1_04_1_A010"    mother="root" color="044444" position="0*mm 0*mm 1273.27*mm" rotation="0*deg 0*deg 0*deg" material="carbonFiber"/>
+    <volume name="A004P9_1_04_001_P9_1_04_2_A002"    mother="root" color="044444" position="0*mm 0*mm 1273.27*mm" rotation="0*deg 0*deg 0*deg" material="carbonFiber"/>
+
+    <volume name="A004P9_1_04_001_P9_1_04_2_D002"    mother="root" color="044444" position="0*mm 0*mm 1273.27*mm" rotation="0*deg 0*deg 0*deg" material="carbonFiber"/>
+    <volume name="A004P9_1_04_001_P9_1_04_2_D003"    mother="root" color="044444" position="0*mm 0*mm 1273.27*mm" rotation="0*deg 0*deg 0*deg" material="carbonFiber"/>
+
+    <volume name="A004P9_1_04_001_P9_1_04_2_E003_1"  mother="root" color="044444" position="0*mm 0*mm 1273.27*mm" rotation="0*deg 0*deg 0*deg" material="carbonFiber"/>
+    <volume name="A004P9_1_04_001_P9_1_04_2_E003"    mother="root" color="044444" position="0*mm 0*mm 1273.27*mm" rotation="0*deg 0*deg 0*deg" material="carbonFiber"/>
+    <volume name="A004P9_1_04_001_P9_1_04_2_E004_1"  mother="root" color="044444" position="0*mm 0*mm 1273.27*mm" rotation="0*deg 0*deg 0*deg" material="carbonFiber"/>
+    <volume name="A004P9_1_04_001_P9_1_04_2_E004"    mother="root" color="044444" position="0*mm 0*mm 1273.27*mm" rotation="0*deg 0*deg 0*deg" material="carbonFiber"/>
+
+    <volume name="A004P9_1_04_001_P9_1_04_003"    mother="root" color="044444" position="0*mm 0*mm 1273.27*mm" rotation="0*deg 0*deg 0*deg" material="carbonFiber"/>
+
+    <volume name="A004P9_1_04_001_P9_1_04_A003"    mother="root" color="044444" position="0*mm 0*mm 1273.27*mm" rotation="0*deg 0*deg 0*deg" material="carbonFiber"/>
+
+    <!-- Encoder -->
+    <volume name="A004P9_1_04_001_P9_1_03_1_E002"      mother="root" color="044444" position="0*mm 0*mm 1273.27*mm" rotation="0*deg 0*deg 0*deg" material="carbonFiber"/>
+
+    <!-- Encoder holders -->
+    <volume name="A004P9_1_04_001_P9_1_08_C002_1"    mother="root" color="044444" position="0*mm 0*mm 1273.27*mm" rotation="0*deg 0*deg 0*deg" material="carbonFiber"/>
+    <volume name="A004P9_1_04_001_P9_1_08_C002"      mother="root" color="044444" position="0*mm 0*mm 1273.27*mm" rotation="0*deg 0*deg 0*deg" material="carbonFiber"/>
+
+    <volume name="A004P9_1_04_001_P9_1_08_T002"      mother="root" color="044444" position="0*mm 0*mm 1273.27*mm" rotation="0*deg 0*deg 0*deg" material="carbonFiber"/>
+
+    <!-- Ribbon -->
+    <volume name="A004P9_1_08_2_A004"                mother="root" color="044444" position="0*mm 0*mm 1273.27*mm" rotation="0*deg 0*deg 0*deg" material="carbonFiber"/>
+
+</gxml>
